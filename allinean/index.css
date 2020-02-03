@@ -1,0 +1,79 @@
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: blue;
+}
+
+.clear {
+    clear: both;
+}
+        body {
+            background-color: black;   
+            color: white;
+        }
+    
+        .footer {
+            color:white;
+        }
+
+hr { 
+    display: block;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+    width: 99%;
+    height: px;
+    background-color: #354468;
+}
+
+.header {
+    height: 0px;
+}
+
+.header a:link {
+    color: red;
+}
+
+.header a:visited {
+    color: red;
+}
+
+.header a:hover {
+    color: #354468;
+}
+
+.welcome {
+   
+}
+
+.nav {
+    font-weight: bold;
+    width: 100%;
+}
+
+.nav a{
+    text-decoration: none;
+}
+
+.footer {
+    
+}
+
+textarea {
+    height: 275px;
+    width: 95%;
+}
+
+/*Below is testing code*/
+
+@media screen and (max-width:375) {
+
+}
+
+/*End testing code section*/
